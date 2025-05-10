@@ -1,0 +1,15 @@
+.song-list {
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.song-list__see-more {
+  cursor: pointer;
+  font-weight: 700;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.song-list__see-more:hover {
+  text-decoration: underline;
+}
